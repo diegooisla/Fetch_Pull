@@ -2,6 +2,11 @@ Primera línea
 segunda línea
 tercera línea
 cuarta línea antes de push en otra rama
+<<<<<<< HEAD
 
 sexta línea en rama creada en github 
 Añado séptima pero quito quinta
+=======
+quinta línea para llevar a main en github
+sexta línea en rama creada en github
+>>>>>>> prueba/main
